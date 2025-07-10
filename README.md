@@ -1,4 +1,8 @@
-## Saludos 
+## Hola, soy Lucy Janell 👋
+
+<h3 align="left">
+Soy Actuaria con un enfoque en el modelado de riesgos y el análisis de datos para el sector financiero. Me apasiona utilizar R para construir modelos predictivos y visualizar información compleja de manera sencilla.
+</h3>
 
 <!--
 **LucyInWhite/LucyInWhite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
