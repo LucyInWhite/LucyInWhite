@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
-<h3 align="left">Lenguajes y herramientas:</h3>
+
 <p align="left"> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://www.comparasoftware.com/image-assets/412/NDEyfHdwLWNvbnRlbnQvdXBsb2Fkcy8yMDE4LzA3L2xvZ29yc3R1ZGlvLnBuZw.webp" alt="c" width="40" height="40"/> </a>
    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/600/latex.png" alt="c" width="40" height="40"/> </a>
