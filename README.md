@@ -1,6 +1,6 @@
 ## Hola, soy Lucy Janell 👋
 ## Aquí puedes leer algunos proyectos interesantes 😄
-## Entra al repositorio "análisis" para acceder a los documentos pdf🌱
+## El repositorio "análisis" tiene diferentes papers🌱
 
 <!--
 **LucyInWhite/LucyInWhite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
